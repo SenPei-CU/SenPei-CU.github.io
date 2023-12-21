@@ -2,10 +2,10 @@
 main:
 
   - title: "Research"
-    url: /research/
+    url: /research/ # portfolio.html
 
   - title: "People"
-    url: /people/   
+    url: /people/ # talks.html 
 
   - title: "Publications"
     url: /publications/ 
@@ -17,7 +17,7 @@ main:
   #   url: /year-archive/
 
   - title: "Press"
-    url: /press/
+    url: /press/ # markdown.md
     
   - title: "CV"
     url: /cv/

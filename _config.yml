@@ -83,9 +83,10 @@ author:
   name             : "Sen Pei"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "|722 West 168th Street 
-                      Rosenfield Building, Room 1104A 
-                      New York, NY 10032"
+  location         : |
+                    "722 West 168th Street 
+                    Rosenfield Building, Room 1104A 
+                    New York, NY 10032"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WKpjMHsAAAAJ&hl=en"

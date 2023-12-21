@@ -5,7 +5,7 @@ main:
     url: /portfolio/
 
   - title: "People"
-    url: /people/
+    url: /markdown/
 
   - title: "Publications"
     url: /publications/

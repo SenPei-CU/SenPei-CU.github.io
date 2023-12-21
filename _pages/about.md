@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<figure style="float: left; margin: -5px 0 -5px 0;">
+    <img src='../images/background.png' style='width:100%;'>
+</figure>
 Based within [the Department of Environmental Health Sciences](http://www.mailman.columbia.edu/academic-departments/environmental-health-sciences) at [Mailman School of Public Health](https://www.mailman.columbia.edu/), Columbia University, our group studies the environmental, social, and ecological determinants of infectious diseases using mathematical and statistical techniques. We develop mathematical models and computational tools to advance surveillance, forecasting, and control of both seasonal and emerging infectious agents, with a focus on respiratory viruses and antimicrobial-resistant pathogens. We also apply methods in complex systems and network science to address broad scientific questions in health.
 
 Latest News

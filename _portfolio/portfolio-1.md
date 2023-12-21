@@ -1,6 +1,6 @@
 ---
 title: "Human Behavior and Disease Transmission"
-excerpt: "Incorporate human behavior into epidemic models<br/><img src='/images/behaviorepi.png' style='width:100%;'>"
+excerpt: "Incorporating human behavior into epidemic models<br/><img src='/images/behaviorepi.png' style='width:500px;'>"
 collection: portfolio
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: "Human Behavior and Disease Transmission"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/behaviorepi.png'>"
+excerpt: "Incorporate human behavior into epidemic models<br/><img src='/images/behaviorepi.png' style='width:100%;'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
-
-<figure style="float: left; margin: 0 20px -10px 0;">
-    <img src='../images/behaviorepi.png' style='width:200px;'>
+<figure style="float: left;">
+    <img src='/images/behaviorepi.png' style='width:100%;'>
 </figure>
+
+Next-generation mathematical models of infectious diseases require better representation of human behavior in order to improve simulation, inference and forecasting accuracy. In an NSF-funded project, we will leverage behavior theories and detailed data to develop behavior-driven epidemic models, study the transmission dynamics of COVID-19, and generate improved forecasting systems. These studies will promote the integration of mathematical, epidemiological, and behavioral sciences to deepen understanding about behavior-disease interaction.

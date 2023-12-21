@@ -81,13 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Sen Pei"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "me.jpg"
+  bio              : "Assistant Professor, Mailman School of Public Health, Columbia University"
   location         : "New York"
-                    # "722 West 168th Street 
-                    # Rosenfield Building, Room 1104A 
-                    # New York, NY 10032"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WKpjMHsAAAAJ&hl=en"
   email            : "sp3449@cumc.columbia.edu"
@@ -106,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7072-2995"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -118,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  faculty Webpage  : "https://www.publichealth.columbia.edu/profile/sen-pei"
 
 
 # Reading Files

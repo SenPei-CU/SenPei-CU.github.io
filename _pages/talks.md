@@ -1,10 +1,15 @@
 ---
-title: "Current Group Members"
-permalink: /talks/groupmembers
-# date: 2012-03-01
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: true
 ---
 
-Profiles of current group members.
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
 
 <figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/me.jpg' style='width:200px;'>
@@ -37,3 +42,8 @@ Han Yong Wunrow began his PhD in Applied Mathematics in the fall of 2021. He rec
 ## [Michal Hajlasz](https://www.linkedin.com/in/micha%C5%82-haj%C5%82asz-9ba5a8224)
 ### Research Assistant
 Michal is a senior at Columbia hailing from Pittsburgh, PA. He is studying computer science with a concentration in math. He is interested in learning more about machine learning, mathematical modelling, and theoretical computer science. In his free time, you will find Michal walking, skating, and listening to music. Michal is working on predictability of human mobility.
+
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}

@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Sen Pei"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Sen Pei"
+description              : &description "Group page"
 url                      : https://SenPei-CU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SenPei-CU/SenPei-CU.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sen Pei"
   avatar           : "me.jpg"
-  bio              : "Assistant Professor, Mailman School of Public Health, Columbia University"
+  bio              : "Assistant Professor, Mailman School of Public Health, Columbia University Email:sp3449@cumc.columbia.edu"
   location         : "New York"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WKpjMHsAAAAJ&hl=en"
-  email            : "sp3449@cumc.columbia.edu"
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Sen-Pei"
   uri              :
   bitbucket        :

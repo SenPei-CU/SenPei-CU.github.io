@@ -21,6 +21,8 @@ redirect_from:
 
 ## Media Interviews
 
+- **CDC**, Apr 26 2023: [CDC Podcast: Challenges in Forecasting Antimicrobial Resistance](https://tools.cdc.gov/medialibrary/index.aspx#/media/id/734732)
+
 - **CNN**, Dec 10 2021: [Covid-19 could eventually be seasonal, scientists say](https://www.cnn.com/2021/12/10/health/covid-19-seasonal/index.html)
 
 - **The Scientist**, Nov 10 2021: [Is COVID-19 Seasonal?](https://www.the-scientist.com/news-opinion/is-covid-19-seasonal-69402)

@@ -15,6 +15,8 @@ Based within [the Department of Environmental Health Sciences](http://www.mailma
 Latest News
 ======
 
+- **01/11/2024** I joined the Data Science for Public Health Summit held at Columbia Mailman School of Public Health. I presented on data challenges in AI/ML for climate change and infectious disease research and participated in the panel discussion on AI/ML for climate and health.
+
 - **12/01/2023** Our R21 project entitled "Inference of heterogeneous transmission of antimicrobial resistant pathogens in health care settings" is awarded by NIAID.
 
 - **11/28/2023** I and Dr. Qing Yao attended [EPIDEMICS 9 - 9th International Conference on Infectious Disease Dynamics](https://www.elsevier.com/events/conferences/all/international-conference-on-infectious-disease-dynamics). I presented "Inference of asymptomatic carriers of antimicrobial-resistant organisms in healthcare settings using multitype observations" in the AMR session. Dr. Qing Yao presented a poster on superspreading and spatial spread. I chaired the COVID-19 session.

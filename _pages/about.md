@@ -12,6 +12,10 @@ redirect_from:
 </figure>
 Based within [the Department of Environmental Health Sciences](http://www.mailman.columbia.edu/academic-departments/environmental-health-sciences) at [Mailman School of Public Health](https://www.mailman.columbia.edu/), Columbia University, our group studies the environmental, social, and ecological determinants of infectious diseases using mathematical and statistical techniques. We develop mathematical models and computational tools to advance surveillance, forecasting, and control of both seasonal and emerging infectious agents, with a focus on respiratory viruses and antimicrobial-resistant pathogens. We also apply methods in complex systems and network science to address broad scientific questions in health.
 
+Real-time forecasts for respiratory diseases
+======
+For the 2023-2024 season, we are generating weekly real-time forecasts for hospitalizations caused by influenza, COVID-19, and RSV at the US state level. Forecasts can be downloaded from our [GitHub repository](https://github.com/tkcy/projections2023_2024). Visualizations of forecasts can be found [here](https://msph.shinyapps.io/CFRH/).
+
 Latest News
 ======
 

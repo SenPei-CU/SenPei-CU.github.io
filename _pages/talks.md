@@ -43,6 +43,13 @@ Han Yong Wunrow began his PhD in Applied Mathematics in the fall of 2021. He rec
 ### Research Assistant
 Michal is a senior at Columbia hailing from Pittsburgh, PA. He is studying computer science with a concentration in math. He is interested in learning more about machine learning, mathematical modelling, and theoretical computer science. In his free time, you will find Michal walking, skating, and listening to music. Michal is working on predictability of human mobility.
 
+<figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/MengFang.png' style='width:200px;'>
+</figure>
+
+## [Meng Fang](https://www.linkedin.com/in/meng-fang/)
+### Research Assistant
+Meng Fang is a second-year biostatistics master student at Mailman School of Public Health. She is currently focusing on analyzing human evacuation patterns during natural disasters. She is interested in the intersection of public health and biostatistics, aiming to use statistical methods to improve public health responses. She received Bachelor of Science degree in Mathematics and Statistics from the University of Michigan, Ann Arbor.
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}

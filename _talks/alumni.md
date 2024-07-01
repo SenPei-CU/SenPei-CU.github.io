@@ -24,7 +24,7 @@ MS student, Department of Biostatistics, Mailman School of Public Health, Columb
 
 ### Yan Wang (2022-2023)
 
-MS student, Department of Biostatistics, Mailman School of Public Health, Columbia University. Quantifying information flow between biomarkers.
+MS student, Department of Biostatistics, Mailman School of Public Health, Columbia University. Quantifying information flow between biomarkers. Presented in GSA (Gerontological Society of America) 2023 Annual Scientific Meeting, Tampa FL, November 8-12, 2023.
 
 ### Wanxin Qi (2022-2023)
 
@@ -40,7 +40,7 @@ MS student, Department of Biostatistics, Mailman School of Public Health, Columb
 
 ### Kaiyu He (2022-2023)
 
-MS student, Department of Biostatistics, Mailman School of Public Health, Columbia University. Analyzing contact tracing data in New York City.
+MS student, Department of Biostatistics, Mailman School of Public Health, Columbia University. Analyzing contact tracing data in New York City. Published in [BMC Public Health](https://link.springer.com/article/10.1186/s12889-024-17920-4).
 
 ### Katherine Dai (2022)
 

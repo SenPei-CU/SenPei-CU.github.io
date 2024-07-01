@@ -19,6 +19,8 @@ For the 2023-2024 season, we are generating weekly real-time forecasts for hospi
 Latest News
 ======
 
+- **06/18/2024** I and Dr. Qing Yao attended NetSci 2024 in Quebec City, Canada. I presented our work on behavior-driven forecasts of neigbhorhood-level COVID-19 spread in New York City. Dr. Yao presented our study on superspreading and spatial spread of infectious diseases.
+
 - **01/11/2024** I joined the Data Science for Public Health Summit held at Columbia Mailman School of Public Health. I presented on data challenges in AI/ML for climate change and infectious disease research and participated in the panel discussion on AI/ML for climate and health.
 
 - **12/01/2023** Our R21 project entitled "Inference of heterogeneous transmission of antimicrobial resistant pathogens in health care settings" is awarded by NIAID.

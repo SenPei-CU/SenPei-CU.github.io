@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sen Pei"
+title                    : "Pei Group"
 title_separator          : "-"
-name                     : &name "Sen Pei"
+name                     : &name "Pei Group"
 description              : &description "Group page"
 url                      : https://SenPei-CU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

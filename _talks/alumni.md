@@ -6,6 +6,14 @@ permalink: /talks/alumni
 
 Profiles of previous group members.
 
+### Michal Hajlasz (2022-2024)
+
+Undergraduate, Computer Science and Math, Columbia Univerity. Quantifying human mobility predictability during COVID-19. Published in [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/8/pgae308/7721207).
+
+### Meng Fang (2023-2024)
+
+MS student, Department of Biostatistics, Mailman School of Public Health, Columbia University. Analyzing human mobility data during hurricane landing.
+
 ### Youngseo Lee (2023)
 
 Undergraduate, Computer Science and Math, Columbia Univerity. Analyzing human mobility patterns during COVID-19.

@@ -19,6 +19,7 @@ author_profile: true
 
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=WKpjMHsAAAAJ&hl=en) profile.
 
+- Hajlasz, M., **Pei, S.** [Predictability of human mobility during the COVID-19 pandemic in the United States](https://academic.oup.com/pnasnexus/article/3/8/pgae308/7721207). PNAS Nexus 3, pgae308 (2024).
 
 - Zhang, R., Tai, J., **Pei, S.** [Ensemble inference of unobserved infections in networks using partial observations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011355). PLoS Computational Biology 19, e1011355 (2023).
 

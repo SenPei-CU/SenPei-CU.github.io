@@ -19,7 +19,7 @@ For the 2023-2024 season, we are generating weekly real-time forecasts for hospi
 Latest News
 ======
 
-- **09/03/2024** We have a few members joining our group in fall 2024. Dr. Tory Lynch joins our group as a T32 Postdoctoral Fellow (co-supervised by Prof. Robbie Parks and Prof. Sen Pei). Christine Kuryla joins us as a second-year PhD student in EHS (co-supervised by Prof. Alan Cohen and Prof. Sen Pei). Fin Mooney is a new PhD student in EHS doing rotation in our group. We also have several master students from EHS and Biostatistics conducting their practicums in our group. Welcome new members!
+- **09/03/2024** We have a few members joining our group in fall 2024. Dr. Tory Lynch joins our group as a T32 Postdoctoral Fellow (co-supervised by Prof. Robbie Parks and Prof. Sen Pei). Christine Kuryla joins us as a second-year PhD student in EHS (co-supervised by Prof. Alan Cohen and Prof. Sen Pei). Fintan Mooney is a new PhD student in EHS doing rotation in our group. We also have several master students from EHS and Biostatistics conducting their practicums in our group. Welcome new members!
 
 - **08/01/2024** I am appointed the director of the [Environmental Health Data Science MS Program](https://www.publichealth.columbia.edu/academics/degrees/master-science/environmental-health-data-science) in EHS department, Columbia University.
 

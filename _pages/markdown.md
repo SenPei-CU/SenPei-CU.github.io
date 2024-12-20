@@ -21,6 +21,8 @@ redirect_from:
 
 ## Media Interviews
 
+- **Stateline**, Oct 17 2024: [The mosquito-borne virus ‘triple E’ continues its spread, worrying state health officials](https://stateline.org/2024/10/16/the-mosquito-borne-virus-triple-e-continues-its-spread-worrying-state-health-officials/)
+
 - **CDC**, Apr 26 2023: [CDC Podcast: Challenges in Forecasting Antimicrobial Resistance](https://tools.cdc.gov/medialibrary/index.aspx#/media/id/734732)
 
 - **CNN**, Dec 10 2021: [Covid-19 could eventually be seasonal, scientists say](https://www.cnn.com/2021/12/10/health/covid-19-seasonal/index.html)

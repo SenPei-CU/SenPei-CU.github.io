@@ -6,6 +6,31 @@ permalink: /talks/alumni
 
 Profiles of previous group members.
 
+### Varvara Rousseau (2024-2025)
+
+MS graduate, Department of Epidemiology, Mailman School of Public Health, Columbia
+University. Trainee in Mailman Doctoral Scholars Program. Human mobility patterns during hurricane landings.
+
+### Dylan Morgan (2024-2025)
+
+MS student, Department of Environmental Health Sciences, Mailman School of Public Health,
+Columbia University. Inference of human mobility using foot-traffic data.
+
+### Dylan Koproski (2024-2025)
+
+MS student, Department of Biostatistics, Mailman School of Public Health, Columbia
+University. Inference of human mobility using foot-traffic data.
+
+### Ziqi Wang (2024)
+
+MS student, Department of Environmental Health Sciences, Mailman School of Public Health,
+Columbia University. Associations between climate factors and COVID-19 spread.
+
+### Huanyu Chen (2024)
+
+MS student, Department of Biostatistics, Mailman School of Public Health, Columbia University.
+Human behavioral characteristics and human mobility during the COVID-19 pandemic.
+
 ### Michal Hajlasz (2022-2024)
 
 Undergraduate, Computer Science and Math, Columbia Univerity. Quantifying human mobility predictability during COVID-19. Published in [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/8/pgae308/7721207).

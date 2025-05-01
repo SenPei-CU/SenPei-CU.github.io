@@ -53,7 +53,7 @@ Han Yong Wunrow began his PhD in Applied Mathematics in the fall of 2021. He rec
 Christine Kuryla is working on her PhD in the department of Environmental Health Sciences. She holds an MPH from Columbia University, a Pre-medical Post-bac from Johns Hopkins, and a B.S. In Physics with a concentration in Mathematics from FIU. She is interested in using various types of data, including physiological time series, as well as omics, to characterize health states and quantify intrinsic health. 
 
 <figure style="float: left; margin: 0 20px -10px 0;">
-    <img src='../images/Nidhi Ram.jpg' style='width:200px;'>
+    <img src='../images/NidhiRam.jpg' style='width:200px;'>
 </figure>
 
 ## [Nidhi Ram](https://www.linkedin.com/in/nidhi-ram-73751a269/)

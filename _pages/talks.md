@@ -52,6 +52,23 @@ Han Yong Wunrow began his PhD in Applied Mathematics in the fall of 2021. He rec
 ### Doctoral Student
 Christine Kuryla is working on her PhD in the department of Environmental Health Sciences. She holds an MPH from Columbia University, a Pre-medical Post-bac from Johns Hopkins, and a B.S. In Physics with a concentration in Mathematics from FIU. She is interested in using various types of data, including physiological time series, as well as omics, to characterize health states and quantify intrinsic health. 
 
+<figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/Nidhi Ram.jpg' style='width:200px;'>
+</figure>
+
+## [Nidhi Ram](https://www.linkedin.com/in/nidhi-ram-73751a269/)
+### Undergraduate Research Assistant
+Nidhi Ram is an undergraduate student at Columbia College studying Mathematics and Middle Eastern, South Asian, and African Studies. She is interested in exploring the intersection of math and human rights. In particular, she hopes to apply mathematical modeling and quantitative methods to problems in public health and policy.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/MinseoLee.jpeg' style='width:200px;'>
+</figure>
+
+## Minseo Lee
+### Undergraduate Research Assistant
+Minseo Lee is an undergraduate studying Computer Science and Applied Mathematics at the Columbia School of Engineering and Applied Sciences. She is interested in data analysis, software engineering, and mathematical modeling. In high school, she researched and developed AI-driven applications, including a running analysis app using recurrent neural networks. She hopes to apply software and mathematical techniques to solve challenges in public health and environmental systems. 
+
+
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}

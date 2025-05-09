@@ -19,9 +19,11 @@ author_profile: true
 
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=WKpjMHsAAAAJ&hl=en) profile.
 
+- Zhang, R., Tai, J., Yao, Q., Yang, W., Ruggeri, K., Shaman, J., **Pei, S.** [Behavior-driven forecasts of neighborhood-level COVID-19 spread in New York City](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012979). PLOS Computational Biology, 21, e1012979 (2025).
+
 - Hajlasz, M., **Pei, S.** [Predictability of human mobility during the COVID-19 pandemic in the United States](https://academic.oup.com/pnasnexus/article/3/8/pgae308/7721207). PNAS Nexus 3, pgae308 (2024).
 
-- Zhang, R., Tai, J., **Pei, S.** [Ensemble inference of unobserved infections in networks using partial observations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011355). PLoS Computational Biology 19, e1011355 (2023).
+- Zhang, R., Tai, J., **Pei, S.** [Ensemble inference of unobserved infections in networks using partial observations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011355). PLOS Computational Biology 19, e1011355 (2023).
 
 - **Pei, S.**, Blumberg, S., Canscante Vega, J.,Robin, T., Zhang, Y., Medford, R.J., Adhikari, B., Shaman, J. [Challenges in Forecasting Antimicrobial Resistance](https://wwwnc.cdc.gov/eid/article/29/4/22-1552_article). Emerging Infectious Diseases 29, 679-685 (2023).
 

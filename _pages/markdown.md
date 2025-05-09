@@ -13,11 +13,11 @@ redirect_from:
 
 - **NIH Director's Blog**, Sep 7 2021: [COVID-19 Infected Many More Americans in 2020 than Official Tallies Show](https://directorsblog.nih.gov/2021/09/07/covid-19-infected-many-more-americans-in-2020-than-official-tallies-show/)
 
-- **New York Times**, May 22 2020: [Lockdown Delays Cost at Least 36,000 Lives, Data Show](https://www.nytimes.com/2020/05/20/us/coronavirus-distancing-deaths.html)
+- **New York Times**, May 22 2020: [Lockdown Delays Cost at Least 36,000 Lives, Data Show](https://www.nytimes.com/2020/05/20/us/coronavirus-distancing-deaths.html) (Featured on the front page of NYT on Mar 21 2020)
 
 - **New York Times**, Mar 20 2020: [Coronavirus Could Overwhelm U.S. Without Urgent Action, Estimates Say](https://www.nytimes.com/interactive/2020/03/20/us/coronavirus-model-us-outbreak.html)
 
-- **MIT Technology Review**, May 213 2014: [The Emerging Science of Superspreaders (And How to Tell If You’re One Of Them)](https://www.technologyreview.com/2014/05/13/13350/the-emerging-science-of-superspreaders-and-how-to-tell-if-youre-one-of-them/)
+- **MIT Technology Review**, May 13 2014: [The Emerging Science of Superspreaders (And How to Tell If You’re One Of Them)](https://www.technologyreview.com/2014/05/13/13350/the-emerging-science-of-superspreaders-and-how-to-tell-if-youre-one-of-them/)
 
 ## Media Interviews
 
@@ -51,14 +51,14 @@ redirect_from:
 
 - **Live Science**, Aug 18 2020: [What if a powerful hurricane hits during the pandemic? Here's how to prevent a double disaster.](https://www.livescience.com/hurricane-evacuations-covid-spread.html)
 
-- **Wired**, Jun 05 2020: [Covid-19 Cases Were Already Rising Before the George Floyd Protests](https://www.wired.com/story/covid-19-cases-were-already-rising-before-the-george-floyd-protests/)
+- **Wired**, Jun 5 2020: [Covid-19 Cases Were Already Rising Before the George Floyd Protests](https://www.wired.com/story/covid-19-cases-were-already-rising-before-the-george-floyd-protests/)
 
 - **NPR**, May 13 2020: [Fauci Says U.S. Death Toll Is Likely Higher. Other COVID-19 Stats Need Adjusting, Too](https://www.npr.org/sections/goatsandsoda/2020/05/13/854873605/fauci-says-u-s-death-toll-is-likely-higher-other-covid-stats-need-adjusting-too)
 
-- **Buzzfeed News**, May 08 2020: [Here’s What Public Health Experts Think Our Pandemic Summer Will Look Like](https://www.buzzfeednews.com/article/danvergano/coronovirus-summer-reopenings-deaths)
+- **Buzzfeed News**, May 8 2020: [Here’s What Public Health Experts Think Our Pandemic Summer Will Look Like](https://www.buzzfeednews.com/article/danvergano/coronovirus-summer-reopenings-deaths)
 
-- **Milwaukee Journal Sentinel**, Apr 09 2020: [Wisconsin health department tracking whether new coronavirus cases are tied to Tuesday’s in-person voting](https://www.jsonline.com/story/news/politics/elections/2020/04/09/coronavirus-wisconsin-state-tracking-whether-cases-tied-voting/5126212002/)
+- **Milwaukee Journal Sentinel**, Apr 9 2020: [Wisconsin health department tracking whether new coronavirus cases are tied to Tuesday’s in-person voting](https://www.jsonline.com/story/news/politics/elections/2020/04/09/coronavirus-wisconsin-state-tracking-whether-cases-tied-voting/5126212002/)
 
-- **Live Science**, Apr 03 2020: [Asymptomatic people may be fueling the coronavirus spread](https://www.livescience.com/undetected-infections-coronavirus-widespread.html)
+- **Live Science**, Apr 3 2020: [Asymptomatic people may be fueling the coronavirus spread](https://www.livescience.com/undetected-infections-coronavirus-widespread.html)
 
 - **Desert Sun**, Mar 20 2020: [Experts say grocery clerks, health care workers need ‘added protection,’ but supplies limited](https://www.desertsun.com/story/news/health/2020/03/20/coronavirus-experts-say-essential-workers-need-added-protection/2868068001/)

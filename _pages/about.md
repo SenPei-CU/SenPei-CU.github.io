@@ -16,8 +16,6 @@ Based within [the Department of Environmental Health Sciences](http://www.mailma
 Latest News
 ======
 
-- **01/13/2025** I am selected as a [2025 Scholar-in-Residence at the Columbia Global Center in Beijing](https://globalcenters.columbia.edu/content/sen-pei). I will visit Columbia Beijing Center in August 2025 to advance climate, health, and infectious disease collaboration in China.
-
 - **09/03/2024** We have a few members joining our group in fall 2024. Dr. Tory Lynch joins our group as a T32 Postdoctoral Fellow (co-supervised by Prof. Robbie Parks and Prof. Sen Pei). Christine Kuryla joins us as a second-year PhD student in EHS (co-supervised by Prof. Alan Cohen and Prof. Sen Pei). Fintan Mooney is a new PhD student in EHS doing rotation in our group. We also have several master students from EHS and Biostatistics conducting their practicums in our group. Welcome new members!
 
 - **08/01/2024** I am appointed the director of the [Environmental Health Data Science MS Program](https://www.publichealth.columbia.edu/academics/degrees/master-science/environmental-health-data-science) in EHS department, Columbia University.

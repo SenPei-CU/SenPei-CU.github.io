@@ -16,6 +16,16 @@ Based within [the Department of Environmental Health Sciences](http://www.mailma
 Latest News
 ======
 
+- **08/21/2025** As the faculty lead of the program "[Unveiling Public Health: A Discovery Tour in China](https://globalcenters.columbia.edu/content-beijing/unveiling-public-health-discovery-tour-china)", I visited eight universities/institutions in Beijing with seven Mailman students and alumni. This immersive Public Health Study Tour is supported by the Scholar-in-Residence program during my residency at Columbia Beijing Center. 
+
+- **08/06/2025** Our R35 MIRA project "Early detection and inference for emerging infectious agents in data-sparse settings" is awarded by NIH/NIGMS.
+
+- **07/20/2025** Our [study](https://www.medrxiv.org/content/10.1101/2025.07.02.25330752v1) on adaptive mobility responses during Hurricanes Helene and Milton in 2024 is featured by the Washington Post in the story "[A new era of floods has arrived. America isn’t prepared.](https://www.washingtonpost.com/climate-environment/2025/07/07/hurricane-helene-evacuation-north-carolina-warnings/)".
+
+- **07/14/2025** I attended the Society for Mathematical Biology Annual Meeting 2025 in Edmonton, Canada. I presented a talk "Addressing the challenge of imperfect observation processes in epidemic modeling" in the minisymposium: Scenario Modeling to Inform Public Policymaking.
+
+- **01/13/2025** I am selected as a [2025 Scholar-in-Residence at the Columbia Global Center in Beijing](https://globalcenters.columbia.edu/content/sen-pei). I will visit Columbia Beijing Center in August 2025 to advance climate, health, and infectious disease collaboration in China.
+
 - **09/03/2024** We have a few members joining our group in fall 2024. Dr. Tory Lynch joins our group as a T32 Postdoctoral Fellow (co-supervised by Prof. Robbie Parks and Prof. Sen Pei). Christine Kuryla joins us as a second-year PhD student in EHS (co-supervised by Prof. Alan Cohen and Prof. Sen Pei). Fintan Mooney is a new PhD student in EHS doing rotation in our group. We also have several master students from EHS and Biostatistics conducting their practicums in our group. Welcome new members!
 
 - **08/01/2024** I am appointed the director of the [Environmental Health Data Science MS Program](https://www.publichealth.columbia.edu/academics/degrees/master-science/environmental-health-data-science) in EHS department, Columbia University.

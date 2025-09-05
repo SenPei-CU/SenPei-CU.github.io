@@ -9,6 +9,8 @@ redirect_from:
 
 ## Featured Coverage
 
+- **The Washington Post**, July 20 2025: [A new era of floods has arrived. America isn’t prepared.](https://www.washingtonpost.com/climate-environment/2025/07/07/hurricane-helene-evacuation-north-carolina-warnings/)
+
 - **Nature's Research Highlights**, Sep 9 2021: [A simulation exposes the secret spread of hospital infections](https://www.nature.com/articles/d41586-021-02466-x)
 
 - **NIH Director's Blog**, Sep 7 2021: [COVID-19 Infected Many More Americans in 2020 than Official Tallies Show](https://directorsblog.nih.gov/2021/09/07/covid-19-infected-many-more-americans-in-2020-than-official-tallies-show/)

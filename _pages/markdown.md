@@ -9,17 +9,21 @@ redirect_from:
 
 ## Featured Coverage
 
-- **The Washington Post**, July 20 2025: [A new era of floods has arrived. America isn’t prepared.](https://www.washingtonpost.com/climate-environment/2025/07/07/hurricane-helene-evacuation-north-carolina-warnings/)
+- **The Washington Post**, July 20 2025: [A new era of floods has arrived. America isn’t prepared](https://www.washingtonpost.com/climate-environment/2025/07/07/hurricane-helene-evacuation-north-carolina-warnings/) [[Paper.](https://iopscience.iop.org/article/10.1088/1748-9326/ae0e39)]
 
-- **Nature's Research Highlights**, Sep 9 2021: [A simulation exposes the secret spread of hospital infections](https://www.nature.com/articles/d41586-021-02466-x)
+- **Nature's Research Highlights**, Sep 9 2021: [A simulation exposes the secret spread of hospital infections](https://www.nature.com/articles/d41586-021-02466-x) [[Paper.](https://www.pnas.org/doi/abs/10.1073/pnas.2111190118)]
 
-- **NIH Director's Blog**, Sep 7 2021: [COVID-19 Infected Many More Americans in 2020 than Official Tallies Show](https://directorsblog.nih.gov/2021/09/07/covid-19-infected-many-more-americans-in-2020-than-official-tallies-show/)
+- **NIH Director's Blog**, Sep 7 2021: [COVID-19 Infected Many More Americans in 2020 than Official Tallies Show](https://directorsblog.nih.gov/2021/09/07/covid-19-infected-many-more-americans-in-2020-than-official-tallies-show/) [[Paper.](https://www.nature.com/articles/s41586-021-03914-4)]
 
-- **New York Times**, May 22 2020: [Lockdown Delays Cost at Least 36,000 Lives, Data Show](https://www.nytimes.com/2020/05/20/us/coronavirus-distancing-deaths.html) (Featured on the front page of NYT on Mar 21 2020)
+- **New York Times**, May 22 2020: [Lockdown Delays Cost at Least 36,000 Lives, Data Show](https://www.nytimes.com/2020/05/20/us/coronavirus-distancing-deaths.html) [[Paper.](https://www.science.org/doi/full/10.1126/sciadv.abd6370)]
 
-- **New York Times**, Mar 20 2020: [Coronavirus Could Overwhelm U.S. Without Urgent Action, Estimates Say](https://www.nytimes.com/interactive/2020/03/20/us/coronavirus-model-us-outbreak.html)
+- **New York Times**, Mar 20 2020: [Coronavirus Could Overwhelm U.S. Without Urgent Action, Estimates Say](https://www.nytimes.com/interactive/2020/03/20/us/coronavirus-model-us-outbreak.html) (Featured on the front page of NYT on Mar 21 2020) [[Paper.](https://www.medrxiv.org/content/10.1101/2020.03.21.20040303v2)]
 
-- **MIT Technology Review**, May 13 2014: [The Emerging Science of Superspreaders (And How to Tell If You’re One Of Them)](https://www.technologyreview.com/2014/05/13/13350/the-emerging-science-of-superspreaders-and-how-to-tell-if-youre-one-of-them/)
+- **Los Angeles Times**, Mar 17 2020: [How ‘silent spreaders’ are fueling the coronavirus pandemic](https://www.latimes.com/science/story/2020-03-17/how-silent-spreaders-are-fueling-the-coronavirus-pandemic) [[Paper.](https://www.science.org/doi/full/10.1126/science.abb3221)]
+
+- **New York Times**, Mar 16 2020: [Coronavirus Is Hiding in Plain Sight](https://www.nytimes.com/2020/03/16/health/coronavirus-statistics-undetected.html) [[Paper.](https://www.science.org/doi/full/10.1126/science.abb3221)]
+
+- **MIT Technology Review**, May 13 2014: [The Emerging Science of Superspreaders (And How to Tell If You’re One Of Them)](https://www.technologyreview.com/2014/05/13/13350/the-emerging-science-of-superspreaders-and-how-to-tell-if-youre-one-of-them/) [[Paper.](https://www.nature.com/articles/srep05547)]
 
 ## Media Interviews
 

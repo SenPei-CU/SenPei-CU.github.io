@@ -88,7 +88,7 @@ Minseo Lee is an undergraduate studying Computer Science and Applied Mathematics
     <img src='../images/ClaireJong.jpg' style='width:200px;'>
 </figure>
 
-## [ClaireJong](https://www.linkedin.com/in/clairejong)
+## [Claire Jong](https://www.linkedin.com/in/clairejong)
 ### Undergraduate
 Claire Jong is an undergraduate at Columbia College studying Computer Science and Cognitive Science. She is interested in the intersection of technology and human psychology, especially exploring how cognitive biases emerge in technological environments, and how computational tools can support more informed and equitable decision-making. She hopes to apply mathematical modeling and AI-driven methods to tackle problems in these fields of human behavior, health, and policy.
 

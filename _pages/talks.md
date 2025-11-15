@@ -61,11 +61,19 @@ Christine Kuryla is working on her PhD in the department of Environmental Health
 Fintan (Fin) Mooney is a PhD student in Environmental Health Sciences at the Columbia Mailman School of Public Health. He holds an MPH in Environmental Health Sciences from Yale and both an M.A. in Community Development and Planning and a B.A. in Psychology with a concentration in Public Health from Clark University. His research focuses on spatial epidemiology and GIS methods, with an emphasis on health risks from fossil fuel infrastructure and climate change. His current work examines environmental determinants of highly pathogenic avian influenza outbreaks, as well as the health effects of evacuation and mobility during extreme weather events.
 
 <figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/YimingCao.jpeg' style='width:200px;'>
+</figure>
+
+## [Yiming Cao](https://www.linkedin.com/in/yimingcao1124)
+### Master Student
+Yiming Cao is currently an graduate student studying Data Science in the Department of Environmental Health Sciences at  Columbia Mailman School of Public Health. He holds a B.S. in Statistics from the University of California, Davis. His work focuses on time-series deep learning modeling and the application of LLMs in public health, including the analysis of physiological signals and other health data. He is particularly interested in developing AI-driven tools to improve disease prediction, health risk assessment, and decision-making in public health practice.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/NidhiRam.jpg' style='width:200px;'>
 </figure>
 
 ## [Nidhi Ram](https://www.linkedin.com/in/nidhi-ram-73751a269/)
-### Undergraduate Research Assistant
+### Undergraduate
 Nidhi Ram is an undergraduate student at Columbia College studying Mathematics and Middle Eastern, South Asian, and African Studies. She is interested in exploring the intersection of math and human rights. In particular, she hopes to apply mathematical modeling and quantitative methods to problems in public health and policy.
 
 <figure style="float: left; margin: 0 20px -10px 0;">
@@ -73,8 +81,24 @@ Nidhi Ram is an undergraduate student at Columbia College studying Mathematics a
 </figure>
 
 ## [Minseo Lee](https://www.linkedin.com/in/minseolee/)
-### Undergraduate Research Assistant
-Minseo Lee is an undergraduate studying Computer Science and Applied Mathematics at the Columbia School of Engineering and Applied Sciences. She is interested in data analysis, software engineering, and mathematical modeling. In high school, she researched and developed AI-driven applications, including a running analysis app using recurrent neural networks. She hopes to apply software and mathematical techniques to solve challenges in public health and environmental systems. 
+### Undergraduate
+Minseo Lee is an undergraduate studying Computer Science and Applied Mathematics at the Columbia School of Engineering and Applied Sciences. She is interested in data analysis, software engineering, and mathematical modeling. In high school, she researched and developed AI-driven applications, including a running analysis app using recurrent neural networks. She hopes to apply software and mathematical techniques to solve challenges in public health and environmental systems.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/ClaireJong.jpg' style='width:200px;'>
+</figure>
+
+## [ClaireJong](https://www.linkedin.com/in/clairejong)
+### Undergraduate
+Claire Jong is an undergraduate at Columbia College studying Computer Science and Cognitive Science. She is interested in the intersection of technology and human psychology, especially exploring how cognitive biases emerge in technological environments, and how computational tools can support more informed and equitable decision-making. She hopes to apply mathematical modeling and AI-driven methods to tackle problems in these fields of human behavior, health, and policy.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/YuhaoXiao.jpg' style='width:200px;'>
+</figure>
+
+## [Yuhao Xiao](https://www.linkedin.com/in/yuhao7xiao)
+### Undergraduate
+Yuhao (Jason) Xiao is an undergraduate student studying Applied Mathematics and Computer Science at Columbia's School of Engineering and Applied Science. His interests include software engineering, machine learning, data analysis, and applying quantitative methods to model human behavior.
 
 
 {% for post in site.talks reversed %}

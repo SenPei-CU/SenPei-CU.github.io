@@ -19,6 +19,8 @@ author_profile: true
 
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=WKpjMHsAAAAJ&hl=en) profile.
 
+- Yao, Q., Lynch, V.D., Liu, M., Wu, X., Parks, R.M., **Pei, S.** [Adaptive mobility responses during Hurricanes Helene and Milton in 2024](https://iopscience.iop.org/article/10.1088/1748-9326/ae0e39). Environmental Research Letters 20, 114012 (2025).
+
 - Zhang, R., Tai, J., Yao, Q., Yang, W., Ruggeri, K., Shaman, J., **Pei, S.** [Behavior-driven forecasts of neighborhood-level COVID-19 spread in New York City](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012979). PLOS Computational Biology, 21, e1012979 (2025).
 
 - Hajlasz, M., **Pei, S.** [Predictability of human mobility during the COVID-19 pandemic in the United States](https://academic.oup.com/pnasnexus/article/3/8/pgae308/7721207). PNAS Nexus 3, pgae308 (2024).

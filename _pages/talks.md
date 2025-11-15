@@ -23,7 +23,7 @@ to better understand, predict, and prepare for recurrent and emerging outbreaks.
     <img src='../images/QingYao.jpg' style='width:200px;'>
 </figure>
 
-## [Qing Yao](https://qing1101.com/)
+## [Qing Yao](https://scholar.google.com/citations?user=xjrfQTsAAAAJ&hl=en)
 ### Associate Research Scientist
 Dr. Qing Yao is an associate research scientist with a focus on the theories and application of complexity and network science. She is currently working on modeling infectious diseases spread and understanding the impact of human behaviour on this phenomenon. Prior to her current position, Qing conducted research at Beijing Normal University and Imperial College London. She holds a PhD in physics and a Master's degree in financial statistics.
 

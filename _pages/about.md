@@ -16,11 +16,13 @@ Based within [the Department of Environmental Health Sciences](http://www.mailma
 Latest News
 ======
 
+- **11/01/2025** Our group attended the 2025 MIDAS Network Annual Meeting in Bethesda, MD. I presented our recent study on reconstructing the early spatial spread of pandemics in the US. Dr. Qing Yao presented her study using GNN to predict adaptive mobility for improving epidemic forecasts.  
+
 - **08/21/2025** As the faculty lead of the program "[Unveiling Public Health: A Discovery Tour in China](https://globalcenters.columbia.edu/content-beijing/unveiling-public-health-discovery-tour-china)", I visited eight universities/institutions in Beijing with seven Mailman students and alumni. This immersive Public Health Study Tour is supported by the Scholar-in-Residence program during my residency at Columbia Beijing Center. 
 
 - **08/06/2025** Our R35 MIRA project "Early detection and inference for emerging infectious agents in data-sparse settings" is awarded by NIH/NIGMS.
 
-- **07/20/2025** Our [study](https://www.medrxiv.org/content/10.1101/2025.07.02.25330752v1) on adaptive mobility responses during Hurricanes Helene and Milton in 2024 is featured by the Washington Post in the story "[A new era of floods has arrived. America isn’t prepared.](https://www.washingtonpost.com/climate-environment/2025/07/07/hurricane-helene-evacuation-north-carolina-warnings/)".
+- **07/20/2025** Our [study](https://iopscience.iop.org/article/10.1088/1748-9326/ae0e39) on adaptive mobility responses during Hurricanes Helene and Milton in 2024 is featured by the Washington Post in the story "[A new era of floods has arrived. America isn’t prepared.](https://www.washingtonpost.com/climate-environment/2025/07/07/hurricane-helene-evacuation-north-carolina-warnings/)".
 
 - **07/14/2025** I attended the Society for Mathematical Biology Annual Meeting 2025 in Edmonton, Canada. I presented a talk "Addressing the challenge of imperfect observation processes in epidemic modeling" in the minisymposium: Scenario Modeling to Inform Public Policymaking.
 

@@ -16,6 +16,8 @@ Based within [the Department of Environmental Health Sciences](http://www.mailma
 Latest News
 ======
 
+- **12/01/2025** Our group attended the EPIDEMICS 10: 10th International Conference on Infectious Disease Dynamics in San Diego, CA.   
+
 - **11/01/2025** Our group attended the 2025 MIDAS Network Annual Meeting in Bethesda, MD. I presented our recent study on reconstructing the early spatial spread of pandemics in the US. Dr. Qing Yao presented her study using GNN to predict adaptive mobility for improving epidemic forecasts.  
 
 - **08/21/2025** As the faculty lead of the program "[Unveiling Public Health: A Discovery Tour in China](https://globalcenters.columbia.edu/content-beijing/unveiling-public-health-discovery-tour-china)", I visited eight universities/institutions in Beijing with seven Mailman students and alumni. This immersive Public Health Study Tour is supported by the Scholar-in-Residence program during my residency at Columbia Beijing Center. 

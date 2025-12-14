@@ -19,6 +19,8 @@ author_profile: true
 
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=WKpjMHsAAAAJ&hl=en) profile.
 
+- **Pei, S.**, Seeram, D., Blumberg, S., Shopsin, B., Uhlemann, A.C., Shaman, J. [Inferring asymptomatic carriers of antimicrobial-resistant organisms in hospitals using genomic, microbiological and patient mobility data](https://www.nature.com/articles/s41467-025-65241-w). Nature Communications 16, 10140 (2025).
+
 - Yao, Q., Lynch, V.D., Liu, M., Wu, X., Parks, R.M., **Pei, S.** [Adaptive mobility responses during Hurricanes Helene and Milton in 2024](https://iopscience.iop.org/article/10.1088/1748-9326/ae0e39). Environmental Research Letters 20, 114012 (2025).
 
 - Zhang, R., Tai, J., Yao, Q., Yang, W., Ruggeri, K., Shaman, J., **Pei, S.** [Behavior-driven forecasts of neighborhood-level COVID-19 spread in New York City](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012979). PLOS Computational Biology, 21, e1012979 (2025).

@@ -6,6 +6,10 @@ permalink: /talks/alumni
 
 Profiles of previous group members.
 
+### Minseo Lee (2025)
+
+Undergraduate, Computer Science and Applied Math, Columbia Univerity. Risk of HPAI spillover.
+
 ### Varvara Rousseau (2024-2025)
 
 MS graduate, Department of Epidemiology, Mailman School of Public Health, Columbia

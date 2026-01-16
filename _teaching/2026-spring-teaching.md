@@ -2,9 +2,9 @@
 title: "Introduction to Network Science"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2025-spring-teaching
+permalink: /teaching/2026-spring-teaching
 venue: "Columbia University, Mailman School of Public Health"
-date: 2025-01-23
+date: 2026-01-15
 location: "New York, USA"
 ---
 

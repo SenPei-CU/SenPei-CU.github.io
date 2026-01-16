@@ -69,20 +69,20 @@ Fintan (Fin) Mooney is a PhD student in Environmental Health Sciences at the Col
 Yiming Cao is currently an graduate student studying Data Science in the Department of Environmental Health Sciences at  Columbia Mailman School of Public Health. He holds a B.S. in Statistics from the University of California, Davis. His work focuses on time-series deep learning modeling and the application of LLMs in public health, including the analysis of physiological signals and other health data. He is particularly interested in developing AI-driven tools to improve disease prediction, health risk assessment, and decision-making in public health practice.
 
 <figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/BohanZhu.jpg' style='width:200px;'>
+</figure>
+
+## [Bohan Zhu](www.linkedin.com/in/bohan-zhu-920910394)
+### Master Student
+Bohan Zhu is currently a graduate student studying Theory and Method in the Department of Biostatistics at Columbia Mailman School of Public Health. Before entering Columbia, he completed a B.S. in Statistics and a B.A. in Business at the University of Rochester. His interests include time-series modeling, Bayesian methods, and applying quantitative approaches to public health questions. His recent work spans entropy-based time-series change-point detection, clinical risk factor modeling, and the use of regression and machine learning tools for surveillance and analysis.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/NidhiRam.jpg' style='width:200px;'>
 </figure>
 
 ## [Nidhi Ram](https://www.linkedin.com/in/nidhi-ram-73751a269/)
 ### Undergraduate
 Nidhi Ram is an undergraduate student at Columbia College studying Mathematics and Middle Eastern, South Asian, and African Studies. She is interested in exploring the intersection of math and human rights. In particular, she hopes to apply mathematical modeling and quantitative methods to problems in public health and policy.
-
-<figure style="float: left; margin: 0 20px -10px 0;">
-    <img src='../images/MinseoLee.jpeg' style='width:200px;'>
-</figure>
-
-## [Minseo Lee](https://www.linkedin.com/in/minseolee/)
-### Undergraduate
-Minseo Lee is an undergraduate studying Computer Science and Applied Mathematics at the Columbia School of Engineering and Applied Sciences. She is interested in data analysis, software engineering, and mathematical modeling. In high school, she researched and developed AI-driven applications, including a running analysis app using recurrent neural networks. She hopes to apply software and mathematical techniques to solve challenges in public health and environmental systems.
 
 <figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/ClaireJong.jpg' style='width:200px;'>
@@ -99,6 +99,14 @@ Claire Jong is an undergraduate at Columbia College studying Computer Science an
 ## [Yuhao Xiao](https://www.linkedin.com/in/yuhao7xiao)
 ### Undergraduate
 Yuhao (Jason) Xiao is an undergraduate student studying Applied Mathematics and Computer Science at Columbia's School of Engineering and Applied Science. His interests include software engineering, machine learning, data analysis, and applying quantitative methods to model human behavior.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/AthenaKe.JPG' style='width:200px;'>
+</figure>
+
+## [Yifeng Ke](https://www.linkedin.com/in/athena-ke-625b602ab/)
+### Undergraduate
+Yifeng (Athena) Ke is an undergraduate student at Barnard College studying Applied Mathematics and Statistics. She is interested in quantitative solutions to pressing public and population health concerns. She hopes to explore mathematical and statistical modeling in epidemiology as well as in various biological contexts. 
 
 
 {% for post in site.talks reversed %}

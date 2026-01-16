@@ -19,6 +19,8 @@ author_profile: true
 
 You can find the full publication list on my [Google Scholar](https://scholar.google.com/citations?user=WKpjMHsAAAAJ&hl=en) profile.
 
+- Zhang, R., Deng, R., Liu, S., Yao, Q., Shaman, J., Grenfell, G.T., Viboud, C., **Pei, S.** [Reconstructing the early spatial spread of pandemic respiratory viruses in the United States](https://www.pnas.org/doi/abs/10.1073/pnas.2518051123). Proceedings of the National Academy of Sciences of the United States of America 123, e2518051123 (2026).
+
 - **Pei, S.**, Seeram, D., Blumberg, S., Shopsin, B., Uhlemann, A.C., Shaman, J. [Inferring asymptomatic carriers of antimicrobial-resistant organisms in hospitals using genomic, microbiological and patient mobility data](https://www.nature.com/articles/s41467-025-65241-w). Nature Communications 16, 10140 (2025).
 
 - Yao, Q., Lynch, V.D., Liu, M., Wu, X., Parks, R.M., **Pei, S.** [Adaptive mobility responses during Hurricanes Helene and Milton in 2024](https://iopscience.iop.org/article/10.1088/1748-9326/ae0e39). Environmental Research Letters 20, 114012 (2025).

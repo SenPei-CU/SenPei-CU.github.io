@@ -16,6 +16,11 @@ Based within [the Department of Environmental Health Sciences](http://www.mailma
 Latest News
 ======
 
+- **06/09/2026** Our doctoral student, [Fintan Mooney](https://www.linkedin.com/in/fintan-mooney/), successfully passed his qualifying exam! Fin is passionate about research on extreme weathers and population health. We look forward to his impactful works in this space!
+
+- **06/08/2026** We welcomed [Boxuan Wang](https://www.linkedin.com/in/haidianfarmer/), PhD candidate in Sorbonne Université and INSERM, Paris, France, to visit our group during the summer of 2026.
+
+
 - **06/01/2026** Our group attended [NetSci 2026 International School & Conference on Network Science](https://www.netsci2026.com/) in Boston.
 
 - **05/18/2026** [Dr. Haogao Gu](https://www.guhaogao.com/) joined our group as an Associate Research Scientist. Dr. Gu has strong expertise in bioinformatic and phylogenetic analysis of viral sequencing data, and is currently exploring how genomic data and infectious disease models can together inform public health preparedness at both the individual and population levels.
@@ -28,7 +33,9 @@ Latest News
 
 - **12/01/2025** Our group attended EPIDEMICS 10: 10th International Conference on Infectious Disease Dynamics in San Diego, CA.
 
-- **11/04/2025** Our group attended the 2025 MIDAS Network Annual Meeting in Bethesda, MD.
+- **11/19/2025** New paper "[Inferring asymptomatic carriers of antimicrobial-resistant organisms in hospitals using genomic, microbiological and patient mobility data](https://www.nature.com/articles/s41467-025-65241-w)" is published in Nature Communications and selected as one of the Editors’ Highlights in Public Health.
+
+- **11/04/2025** Our group attended the 2025 MIDAS Network Annual Meeting in Bethesda.
 
 - **08/21/2025** As the faculty lead of the program "[Unveiling Public Health: A Discovery Tour in China](https://globalcenters.columbia.edu/content-beijing/unveiling-public-health-discovery-tour-china)", I visited eight universities/institutions in Beijing with seven Mailman students and alumni. This immersive Public Health Study Tour is supported by the Scholar-in-Residence program during my residency at Columbia Beijing Center. 
 

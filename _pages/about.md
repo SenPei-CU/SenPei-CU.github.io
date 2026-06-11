@@ -16,11 +16,13 @@ Based within [the Department of Environmental Health Sciences](http://www.mailma
 Latest News
 ======
 
-- **05/18/2026** Dr. Haogao Gu joined our group as an Associate Research Scientist.
+- **06/01/2026** Our group attended [NetSci 2026 International School & Conference on Network Science](https://www.netsci2026.com/) in Boston.
+
+- **05/18/2026** [Dr. Haogao Gu](https://www.guhaogao.com/) joined our group as an Associate Research Scientist. Dr. Gu has strong expertise in bioinformatic and phylogenetic analysis of viral sequencing data, and is currently exploring how genomic data and infectious disease models can together inform public health preparedness at both the individual and population levels.
 
 - **03/09/2026** I was elected as a [Steering Committee Member](https://midasnetwork.us/about/#steering-committee) of the [MIDAS network](https://midasnetwork.us/).
 
-- **03/02/2026** I visited the Public Health Modeling Unit at Yale School of Public Health.
+- **03/02/2026** I visited the Public Health Modeling Unit at Yale School of Public Health and gave a seminar "Pathogen spread as a complex system: Inference and control of antimicrobial-resistant organisms in hospitals".
 
 - **01/06/2026** New paper "[Reconstructing the early spatial spread of pandemic respiratory viruses in the United States](https://www.pnas.org/doi/abs/10.1073/pnas.2518051123)" is published in PNAS.
 

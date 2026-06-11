@@ -28,6 +28,14 @@ to better understand, predict, and prepare for recurrent and emerging outbreaks.
 Dr. Qing Yao is an associate research scientist with a focus on the theories and application of complexity and network science. She is currently working on modeling infectious diseases spread and understanding the impact of human behaviour on this phenomenon. Prior to her current position, Qing conducted research at Beijing Normal University and Imperial College London. She holds a PhD in physics and a Master's degree in financial statistics.
 
 <figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/HaogaoGU.jpg' style='width:200px;'>
+</figure>
+
+## [Haogao Gu](https://www.guhaogao.com/)
+### Associate Research Scientist
+Dr. Haogao Gu is an Associate Research Scientist studying virus evolution and the epidemiology of viral infections. He has extensive experience in the bioinformatic and phylogenetic analysis of viral sequencing data, and is currently exploring how genomic data and infectious disease models can together inform public health preparedness at both the individual and population levels. Haogao holds a bachelor's degree in Preventive Medicine and a PhD in Infectious Disease (Bioinformatics). He hopes his interdisciplinary background can contribute to the group's work on surveillance, forecasting, and control of emerging pathogens.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/ToryLynch.jpg' style='width:200px;'>
 </figure>
 
@@ -75,6 +83,14 @@ Yiming Cao is currently an graduate student studying Data Science in the Departm
 ## [Bohan Zhu](www.linkedin.com/in/bohan-zhu-920910394)
 ### Master Student
 Bohan Zhu is currently a graduate student studying Theory and Method in the Department of Biostatistics at Columbia Mailman School of Public Health. Before entering Columbia, he completed a B.S. in Statistics and a B.A. in Business at the University of Rochester. His interests include time-series modeling, Bayesian methods, and applying quantitative approaches to public health questions. His recent work spans entropy-based time-series change-point detection, clinical risk factor modeling, and the use of regression and machine learning tools for surveillance and analysis.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/VeerapetchPetchger.png' style='width:200px;'>
+</figure>
+
+## [Veerapetch Petchger](www.linkedin.com/in/bohan-zhu-920910394)
+### Master Student
+Veerapetch Petchger is a graduate student pursuing an MS in Biostatistics at the Columbia Mailman School of Public Health. He holds a BS in Public Health Science with a minor in Statistics from the University of Maryland, College Park.  At Columbia, he is working with the Pei Group on a data pipeline to visualize human mobility flows across New York City ZIP codes, with the goal of understanding how populations move in response to environmental and public health events. His broader interests lie in applying statistical modeling and computational tools to infectious disease dynamics and public health preparedness.
 
 <figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/NidhiRam.jpg' style='width:200px;'>

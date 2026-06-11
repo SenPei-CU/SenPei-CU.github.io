@@ -16,6 +16,8 @@ Based within [the Department of Environmental Health Sciences](http://www.mailma
 Latest News
 ======
 
+- **05/18/2026** Dr. Haogao Gu joined our group as an Associate Research Scientist.
+
 - **03/09/2026** I was elected as a [Steering Committee Member](https://midasnetwork.us/about/#steering-committee) of the [MIDAS network](https://midasnetwork.us/).
 
 - **03/02/2026** I visited the Public Health Modeling Unit at Yale School of Public Health.

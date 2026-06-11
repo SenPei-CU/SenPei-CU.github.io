@@ -88,7 +88,7 @@ Bohan Zhu is currently a graduate student studying Theory and Method in the Depa
     <img src='../images/VeerapetchPetchger.png' style='width:200px;'>
 </figure>
 
-## [Veerapetch Petchger](www.linkedin.com/in/bohan-zhu-920910394)
+## [Veerapetch Petchger](https://www.linkedin.com/in/vpetchger/)
 ### Master Student
 Veerapetch Petchger is a graduate student pursuing an MS in Biostatistics at the Columbia Mailman School of Public Health. He holds a BS in Public Health Science with a minor in Statistics from the University of Maryland, College Park.  At Columbia, he is working with the Pei Group on a data pipeline to visualize human mobility flows across New York City ZIP codes, with the goal of understanding how populations move in response to environmental and public health events. His broader interests lie in applying statistical modeling and computational tools to infectious disease dynamics and public health preparedness.
 

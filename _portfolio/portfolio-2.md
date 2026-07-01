@@ -1,14 +1,18 @@
 ---
-title: "COVID-19"
-excerpt: "Understanding transmission dynamics of SARS-CoV-2<br/><img src='/images/mobility.png' style='width:500px;'>"
+title: "Real-time Response to the COVID-19 Pandemic"
+excerpt: "Understanding transmission dynamics of SARS-CoV-2<br/><img src='/images/COVID.png' style='width:500px;'>"
 collection: portfolio
 ---
 
 <figure style="float: left;">
-    <img src='/images/mobility.png' style='width:100%;'>
+    <img src='/images/COVID.png' style='width:100%;'>
 </figure>
 
-In response to the global outbreak of SARS-CoV-2, we have conducted several modeling studies to address important and urgent questions in understanding the transmission of SARS-CoV-2.
+The COVID-19 pandemic provided an urgent demonstration of the need for real-time, data-driven epidemic modeling. In response to the emergence of SARS-CoV-2, our group developed and applied mathematical models to address critical questions about transmission, under-ascertainment, spatial spread, intervention effects, disease burden, and community transmission.
+
+Early in the pandemic, we used mobility data, surveillance observations, and networked metapopulation models to estimate the extent and impact of undocumented SARS-CoV-2 infections. We also developed one of the first county-level projection systems for the United States, supporting real-time situational awareness during the initial phase of the pandemic. These studies highlighted the role of cryptic transmission, rapid geographic spread, and the importance of timely interventions.
+
+Our later COVID-19 work examined disease burden in the United States, the effects of non-pharmaceutical interventions, contact tracing and community transmission in New York City, and the interaction between human mobility, vaccination, and spatial transmission. Together, this body of work provides a foundation for our broader research program in pandemic preparedness and data-driven modeling of emerging infectious diseases.
 
 ## Projecting COVID-19 spread in the United States
 
@@ -24,7 +28,7 @@ Estimation of the prevalence and contagiousness of undocumented novel coronaviru
 
 ## Counterfactual simulations of COVID-19 spread in the United States
 
-Assessing the effects of early non-pharmaceutical interventions on COVID-19 spread is crucial for understanding and planning future control measures to combat the pandemic. We used observations of reported infections and deaths, human mobility data, and a metapopulation transmission model to quantify changes in disease transmission rates in US counties from March 15 to May 3, 2020. We found that marked, asynchronous reductions of the basic reproductive number occurred throughout the US in association with social distancing and other control measures. Counterfactual simulations indicate that, had these same measures been implemented 1-2 weeks earlier, substantial cases and deaths could have been averted, and that delayed responses to future increased incidence will facilitate a stronger rebound of infections and death. This study, published in [Science Advances](https://advances.sciencemag.org/content/early/2020/11/05/sciadv.abd6370), was reported by the New York Times ["Lockdown Delays Cost at Least 36,000 Lives, Data Show"](https://www.nytimes.com/2020/05/20/us/coronavirus-distancing-deaths.html).
+Assessing the effects of early non-pharmaceutical interventions on COVID-19 spread is crucial for understanding and planning future control measures to combat the pandemic. We used observations of reported infections and deaths, human mobility data, and a metapopulation transmission model to quantify changes in disease transmission rates in US counties from March 15 to May 3, 2020. We found that marked, asynchronous reductions of the basic reproductive number occurred throughout the US in association with social distancing and other control measures. Counterfactual simulations indicate that, had these same measures been implemented 1-2 weeks earlier, substantial cases and deaths could have been averted, and that delayed responses to future increased incidence will facilitate a stronger rebound of infections and death. This study, published in [Sci. Adv.](https://advances.sciencemag.org/content/early/2020/11/05/sciadv.abd6370), was reported by the New York Times ["Lockdown Delays Cost at Least 36,000 Lives, Data Show"](https://www.nytimes.com/2020/05/20/us/coronavirus-distancing-deaths.html).
 
 <figure style="float: left;">
     <img src='/images/counterfactual.png' style='width:100%;'>
@@ -37,8 +41,8 @@ We used a data-driven model-inference approach to simulate the pandemic at count
 
 ## Transmission dynamics of SARS-CoV-2
 
-We led and participated in several studies that eluciated the transmission dynamics of SARS-CoV-2. Collaborating with colleagues at Union of Concerned Scientists, We modeled the compound risks of hurricane evacuation amid the COVID-19 pandemic ([GeoHealth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000319)). In a collaboration with colleagues at Yale, we quantified the role of meteorological factors in the transmission of SARS-CoV-2 ([Nature Communications](https://www.nature.com/articles/s41467-021-23866-7)). We also quantified the impact of COVID-19 non-pharmaceutical interventions on influenza tansmission in the United States ([The Journal of Infectious Diseases](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab485/6374002)).
+We led and participated in several studies that eluciated the transmission dynamics of SARS-CoV-2. Collaborating with colleagues at Union of Concerned Scientists, We modeled the compound risks of hurricane evacuation amid the COVID-19 pandemic ([Pei et al. GeoHealth 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000319)). In a collaboration with colleagues at Yale, we quantified the role of meteorological factors in the transmission of SARS-CoV-2 ([Ma et al. Nat. Commun. 2021](https://www.nature.com/articles/s41467-021-23866-7)). We also quantified the impact of COVID-19 non-pharmaceutical interventions on influenza tansmission in the United States ([Qi et al. J. Infect. Dis. 2021](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab485/6374002)).
 
 ## Contact tracing and COVID-19 transmission in New York City
 
-Using contact tracing records and high-resolution surveillance data, we analyzed community transmission of SARS-CoV-2 in NYC. We found considerable heterogeneity in reported close contacts and secondary infections and evidence of extensive transmission across ZIP code areas. Our analysis revealed the spatial pattern of SARS-CoV-2 spread and communities that were tightly interconnected by exposure and transmission. We found that locations with higher vaccination coverage and lower numbers of visitors to points-of-interest had reduced within- and cross-ZIP code transmission events, highlighting potential measures for curtailing SARS-CoV-2 spread in urban settings. We also found the Delta variant produced greater long-range spatial transmission across NYC ZIP code areas, likely caused by its increased transmissibility and elevated human mobility  These studies were published in [Nature Communications](https://www.nature.com/articles/s41467-022-34130-x) and [BMC Infectious Diseases](https://link.springer.com/article/10.1186/s12879-023-08735-6).
+Using contact tracing records and high-resolution surveillance data, we analyzed community transmission of SARS-CoV-2 in NYC. We found considerable heterogeneity in reported close contacts and secondary infections and evidence of extensive transmission across ZIP code areas. Our analysis revealed the spatial pattern of SARS-CoV-2 spread and communities that were tightly interconnected by exposure and transmission. We found that locations with higher vaccination coverage and lower numbers of visitors to points-of-interest had reduced within- and cross-ZIP code transmission events, highlighting potential measures for curtailing SARS-CoV-2 spread in urban settings. We also found the Delta variant produced greater long-range spatial transmission across NYC ZIP code areas, likely caused by its increased transmissibility and elevated human mobility  These studies were published in [Pei et al. Nat. Commun. 2022](https://www.nature.com/articles/s41467-022-34130-x), [Dai et al. BMC Infect. Dis. 2023](https://link.springer.com/article/10.1186/s12879-023-08735-6), and [He et al. BMC Public Health 2024](https://link.springer.com/article/10.1186/s12889-024-17920-4).

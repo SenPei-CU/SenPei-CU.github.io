@@ -1,11 +1,15 @@
 ---
-title: "Infectious Disease Forecasting"
-excerpt: "Real-time forecasting for outbreak control <br/><img src='/images/forecasting.jpg' style='width:500px;'>"
+title: "Antimicrobial Resistance in Healthcare Settings"
+excerpt: "Combating an urgent threat to human health <br/><img src='/images/AMR.png' style='width:500px;'>"
 collection: portfolio
 ---
 
 <figure style="float: left;">
-    <img src='/images/forecasting.jpg' style='width:100%;'>
+    <img src='/images/AMR.png' style='width:100%;'>
 </figure>
 
-Similar with numerical weather prediction, operational forecast of infectious disease outbreaks can be realized using dynamical models in conjunction with data assimilation techniques. We developed computational methods to advance real-time forecasts of infectious disease spread, with a particular focus on the spatial transmission of influenza, dengue, and COVID-19. We also addressed the problem of optimizing surveillance networks for respiratory diseases. See related works published in [PNAS](http://www.pnas.org/content/115/11/2752), [Nature Communications (2017)](https://www.nature.com/articles/s41467-017-01033-1), [PLoS Computational Biology (2020)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008301), and [Nature Communications (2021)](https://www.nature.com/articles/s41467-020-20399-3).
+Antimicrobial-resistant organisms (AMROs) are a major cause of healthcare-associated infections and a growing threat to patient safety. In hospitals and other healthcare settings, transmission is often poorly observed because many individuals carry resistant organisms without symptoms. This cryptic transmission makes it difficult to identify sources of spread, estimate colonization risk, and design effective interventions.
+
+Our group develops data-driven models and inference methods to study antimicrobial-resistant pathogens in healthcare settings. We use agent-based models, network models, Bayesian inference, data assimilation, and genomic analysis to reconstruct hidden transmission processes from sparse and noisy observations. Our research focuses on pathogens such as methicillin-resistant *Staphylococcus aureus* (MRSA) and carbapenem-resistant *Klebsiella pneumoniae* (CRKP).
+
+A central goal of this work is to identify asymptomatic carriers and high-risk transmission pathways so that interventions can be targeted more effectively. We use an agent-based model/inference system to disentangle the relative contributions of community importation and nosocomial transmission of MRSA ([Pei et al. eLife 2018](https://elifesciences.org/articles/40977)), develop a novel inference algorithm to identify asymptomatic spreaders using sparse diagnostic records ([Pei et al. PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2111190118)), and infer transmission dynamics of different AMROs in hospitals ([Vega et al. Epidemics 2025](https://www.sciencedirect.com/science/article/pii/S1755436525000052)). We further integrate clinical cultures, whole-genome sequencing, patient movement records, electronic health records, and hospital contact networks to infer colonization status and transmission risk ([Pei et al. Nat. Commun. 2025](https://www.nature.com/articles/s41467-025-65241-w)). These methods support improved surveillance and intervention design for reducing healthcare-associated infections.

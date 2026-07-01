@@ -10,11 +10,17 @@ redirect_from:
 <figure style="float: left; margin: -5px 0 -5px 0;">
     <img src='../images/background.png' style='width:100%;'>
 </figure>
-Based within [the Department of Environmental Health Sciences](http://www.mailman.columbia.edu/academic-departments/environmental-health-sciences) at [Mailman School of Public Health](https://www.mailman.columbia.edu/), Columbia University, our group studies the environmental, social, and ecological determinants of infectious diseases using mathematical and statistical techniques. We develop mathematical models and computational tools to advance surveillance, forecasting, and control of both seasonal and emerging infectious agents, with a focus on respiratory viruses and antimicrobial-resistant pathogens. We also apply methods in complex systems and network science to address broad scientific questions in health.
+Based within the [Department of Environmental Health Sciences](http://www.mailman.columbia.edu/academic-departments/environmental-health-sciences) at [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/), our group develops data-driven computational methods to understand, predict, and respond to complex public health challenges. Our research takes a complex systems approach, integrating mathematical modeling, statistical inference, network science, artificial intelligence, and diverse real-world data streams, including surveillance, mobility, behavioral, genomic, clinical, and environmental data.
+
+A central focus of our research is infectious disease dynamics, including recurrent and emerging respiratory viruses and antimicrobial-resistant pathogens in healthcare settings. We develop models and tools for surveillance, forecasting, inference, and intervention design, with the goal of improving preparedness and supporting operational decision-making during outbreaks.
+
+Our research also extends to broader questions in health, including human behavior and epidemic response, mobility adaptation during extreme weather events, climate-related health risks, and emerging work on the science of health and aging. Across these areas, we aim to translate rigorous quantitative methods into practical insights for public health preparedness, response, and policy.
 
 
 Latest News
 ======
+
+- **06/22/2026** Our doctoral student, [Han Yong Wunrow](https://hwunrow.github.io/), defended his PhD in Applied Math at Columbia APAM. Congratulations to Han Yong on this outstanding achievement!
 
 - **06/09/2026** Our doctoral student, [Fintan Mooney](https://www.linkedin.com/in/fintan-mooney/), successfully passed his qualifying exam! Fin is passionate about research on extreme weathers and population health. We look forward to his impactful works in this space!
 

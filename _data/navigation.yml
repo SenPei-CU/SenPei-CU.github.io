@@ -5,7 +5,7 @@ main:
     url: /research/ # portfolio.html
 
   - title: "People"
-    url: /people/ # talks.html 
+    url: /people/ # people.md
 
   - title: "Publications"
     url: /publications/ 
@@ -17,7 +17,7 @@ main:
   #   url: /year-archive/
 
   - title: "Press"
-    url: /press/ # markdown.md
+    url: /press/ # press.md
     
   - title: "CV"
     url: /cv/

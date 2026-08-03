@@ -16,9 +16,18 @@ A central focus of our research is infectious disease dynamics, including recurr
 
 Our research also extends to broader questions in health, including human behavior and epidemic response, mobility adaptation during extreme weather events, climate-related health risks, and emerging work on the science of health and aging. Across these areas, we aim to translate rigorous quantitative methods into practical insights for public health preparedness, response, and policy.
 
+Hurricane Mobility Tracker
+======
+We launched the Hurricane Mobility Tracker, an interactive dashboard that visualizes how population movement changes before, during, and after hurricanes. By integrating cellphone-based mobility data, hazard exposure, and counterfactual modeling, it quantifies disruptions, recovery time, and county-to-county travel patterns to support disaster preparedness and response. Check it out [here](https://hurricane-mobility.fly.dev/)!
+
+<figure>
+  <img src="/images/HurricaneMobilityTracker.png" alt="Hurricane Mobility Tracker dashboard preview" style="width:100%; max-width:800px;">
+</figure>
 
 Latest News
 ======
+
+- **08/03/2026** We lunched the [Hurricane Mobility Tracker](https://hurricane-mobility.fly.dev/), an interactive dashboard that visualizes how population movement changes before, during, and after hurricanes.
 
 - **06/22/2026** Our doctoral student, [Han Yong Wunrow](https://hwunrow.github.io/), defended his PhD in Applied Math at Columbia APAM. Congratulations to Han Yong on this outstanding achievement!
 

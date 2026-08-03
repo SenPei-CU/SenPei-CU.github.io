@@ -43,13 +43,13 @@ Dr. Haogao Gu is an Associate Research Scientist studying virus evolution and th
 Victoria (Tory) Lynch is a postdoctoral scientist in the Environmental Health Sciences Department at Columbia Mailman School of Public Health, where she also completed her PhD in August 2022. Her doctoral work examined the association between flooding and waterborne infectious diseases with a particular focus on Legionnaires' disease. As a postdoctoral research fellow, she continues to study the effect of extreme events, namely cyclonic storms and large flood events, on a broader range of health outcomes and among vulnerable populations including outdoor workers and people in carceral facilities.
 
 
-<figure style="float: left; margin: 0 20px -10px 0;">
+<!-- <figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/HanYongWunrow.jpg' style='width:200px;'>
 </figure>
 
 ## [Han Yong Wunrow](https://hwunrow.github.io/)
 ### Doctoral Student
-Han Yong Wunrow began his PhD in Applied Mathematics in the fall of 2021. He received an MS in Applied Mathematics from the University of Washington and was a Post-Bachelor Fellow at the Institute for Health Metrics and Evaluation, where he worked on the Global Burden of Disease study and the Future Health Scenarios forecasting team. He is interested in the science of transforming raw health data into actionable information through mathematical modeling and computational science. While at Columbia, he hopes to help solve some of the analytical challenges in combining statistical and mechanistic models of infectious disease dynamics.
+Han Yong Wunrow began his PhD in Applied Mathematics in the fall of 2021. He received an MS in Applied Mathematics from the University of Washington and was a Post-Bachelor Fellow at the Institute for Health Metrics and Evaluation, where he worked on the Global Burden of Disease study and the Future Health Scenarios forecasting team. He is interested in the science of transforming raw health data into actionable information through mathematical modeling and computational science. While at Columbia, he hopes to help solve some of the analytical challenges in combining statistical and mechanistic models of infectious disease dynamics. -->
 
 <figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/ChristineKuryla.jpeg' style='width:200px;'>
@@ -99,13 +99,13 @@ Veerapetch Petchger is a graduate student pursuing an MS in Biostatistics at the
 ### Undergraduate
 Nidhi Ram is an undergraduate student at Columbia College studying Mathematics and Middle Eastern, South Asian, and African Studies. She is interested in exploring the intersection of math and human rights. In particular, she hopes to apply mathematical modeling and quantitative methods to problems in public health and policy.
 
-<figure style="float: left; margin: 0 20px -10px 0;">
+<!-- <figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/ClaireJong.jpg' style='width:200px;'>
 </figure>
 
 ## [Claire Jong](https://www.linkedin.com/in/clairejong)
 ### Undergraduate
-Claire Jong is an undergraduate at Columbia College studying Computer Science and Cognitive Science. She is interested in the intersection of technology and human psychology, especially exploring how cognitive biases emerge in technological environments, and how computational tools can support more informed and equitable decision-making. She hopes to apply mathematical modeling and AI-driven methods to tackle problems in these fields of human behavior, health, and policy.
+Claire Jong is an undergraduate at Columbia College studying Computer Science and Cognitive Science. She is interested in the intersection of technology and human psychology, especially exploring how cognitive biases emerge in technological environments, and how computational tools can support more informed and equitable decision-making. She hopes to apply mathematical modeling and AI-driven methods to tackle problems in these fields of human behavior, health, and policy. -->
 
 <figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/YuhaoXiao.jpg' style='width:200px;'>

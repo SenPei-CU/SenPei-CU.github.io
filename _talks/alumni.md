@@ -6,6 +6,10 @@ permalink: /talks/alumni
 
 Profiles of previous group members.
 
+### Han Yong Wunrow, PhD (2023-2026)
+
+PhD student, Applied Physics and Applied Mathematics, Columbia Univerity. Thesis title: Data-Driven Methods for Estimating and Forecasting Infectious Disease Transmission Under Nonstationary Dynamics
+
 ### Minseo Lee (2025)
 
 Undergraduate, Computer Science and Applied Math, Columbia Univerity. Risk of HPAI spillover.
@@ -49,7 +53,7 @@ Undergraduate, Computer Science and Math, Columbia Univerity. Analyzing human mo
 
 ### Zongmin Liu (2023)
 
-Full-time Research Assistant. Modeling impact of climate variability on foreign animal disease.
+Research Associate. Modeling impact of climate variability on foreign animal disease.
 
 ### Alex Bala (2022-2023)
 
@@ -97,4 +101,4 @@ MS student, Department of Biostatistics, Mailman School of Public Health, Columb
 
 ### Rafael Bomfim (2018)
 
-PhD Candidate, Graduate Program in Applied Computing, University of Fortaleza, Brazil. Predicting dengue outbreaks at neighborhood level using human mobility in urban areas. Published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2020.0691).
+PhD student, Graduate Program in Applied Computing, University of Fortaleza, Brazil. Predicting dengue outbreaks at neighborhood level using human mobility in urban areas. Published in [Journal of the Royal Society Interface](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2020.0691).

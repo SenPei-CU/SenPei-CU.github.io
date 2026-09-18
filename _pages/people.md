@@ -35,6 +35,14 @@ Dr. Qing Yao is an associate research scientist with a focus on the theories and
 Dr. Haogao Gu is an Associate Research Scientist studying virus evolution and the epidemiology of viral infections. He has extensive experience in the bioinformatic and phylogenetic analysis of viral sequencing data, and is currently exploring how genomic data and infectious disease models can together inform public health preparedness at both the individual and population levels. Haogao holds a bachelor's degree in Preventive Medicine and a PhD in Infectious Disease (Bioinformatics). He hopes his interdisciplinary background can contribute to the group's work on surveillance, forecasting, and control of emerging pathogens.
 
 <figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/MayaChung.jpg' style='width:200px;'>
+</figure>
+
+## [Maya Chung](https://mayavchung.github.io/)
+### Postdoctoral Research Fellow
+Dr. Maya Chung is a Postdoctoral Research Scientist at the Columbia Climate School, where she studies the intersections of climate and health. Her research spans climate modeling, physical oceanography, infectious disease, and temperature-related health impacts. She previously held a postdoctoral position at the High Meadows Environmental Institute and holds a PhD in Atmospheric and Oceanic Sciences from Princeton University and a BA in Earth and Planetary Sciences from Harvard University. Maya aims to leverage insights from climate and health data and models to inform public health policymaking in our changing climate.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/ToryLynch.jpg' style='width:200px;'>
 </figure>
 
@@ -42,14 +50,6 @@ Dr. Haogao Gu is an Associate Research Scientist studying virus evolution and th
 ### Postdoctoral Research Fellow
 Victoria (Tory) Lynch is a postdoctoral scientist in the Environmental Health Sciences Department at Columbia Mailman School of Public Health, where she also completed her PhD in August 2022. Her doctoral work examined the association between flooding and waterborne infectious diseases with a particular focus on Legionnaires' disease. As a postdoctoral research fellow, she continues to study the effect of extreme events, namely cyclonic storms and large flood events, on a broader range of health outcomes and among vulnerable populations including outdoor workers and people in carceral facilities.
 
-
-<!-- <figure style="float: left; margin: 0 20px -10px 0;">
-    <img src='../images/HanYongWunrow.jpg' style='width:200px;'>
-</figure>
-
-## [Han Yong Wunrow](https://hwunrow.github.io/)
-### Doctoral Student
-Han Yong Wunrow began his PhD in Applied Mathematics in the fall of 2021. He received an MS in Applied Mathematics from the University of Washington and was a Post-Bachelor Fellow at the Institute for Health Metrics and Evaluation, where he worked on the Global Burden of Disease study and the Future Health Scenarios forecasting team. He is interested in the science of transforming raw health data into actionable information through mathematical modeling and computational science. While at Columbia, he hopes to help solve some of the analytical challenges in combining statistical and mechanistic models of infectious disease dynamics. -->
 
 <figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/ChristineKuryla.jpeg' style='width:200px;'>
@@ -72,8 +72,17 @@ Fintan (Fin) Mooney is a PhD student in Environmental Health Sciences at the Col
 </figure>
 
 ## [Yiming Cao](https://www.linkedin.com/in/yimingcao1124)
-### Master Student
-Yiming Cao is currently an graduate student studying Data Science in the Department of Environmental Health Sciences at  Columbia Mailman School of Public Health. He holds a B.S. in Statistics from the University of California, Davis. His work focuses on time-series deep learning modeling and the application of LLMs in public health, including the analysis of physiological signals and other health data. He is particularly interested in developing AI-driven tools to improve disease prediction, health risk assessment, and decision-making in public health practice.
+### Research Associate
+Yiming Cao is a Research Associate at Columbia Mailman School of Public Health. He graduated from the Environmental Health Data Science MS Progam in the Department of Environmental Health Sciences at Columbia Mailman. He holds a B.S. in Statistics from the University of California, Davis. His work focuses on time-series deep learning modeling and the application of LLMs in public health, including the analysis of physiological signals and other health data. He is particularly interested in developing AI-driven tools to improve disease prediction, health risk assessment, and decision-making in public health practice.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/YuchenQIN.jpg' style='width:200px;'>
+</figure>
+
+## [Yuchen Qin](https://www.linkedin.com/in/yuchen-qin-22444632a/)
+### Research Associate
+Yuchen Qin is a Research Associate in the Department of Environmental Health Sciences at Columbia Mailman School of Public Health. He works on infectious disease modeling and LLM-based epidemic forecasting, with side interests in labor market mobility. He holds a B.S. in Computer Science from USTC (China) and a master's degree from UVA.
+
 
 <figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/BohanZhu.jpg' style='width:200px;'>
@@ -92,6 +101,14 @@ Bohan Zhu is currently a graduate student studying Theory and Method in the Depa
 Veerapetch Petchger is a graduate student pursuing an MS in Biostatistics at the Columbia Mailman School of Public Health. He holds a BS in Public Health Science with a minor in Statistics from the University of Maryland, College Park.  At Columbia, he is working with the Pei Group on a data pipeline to visualize human mobility flows across New York City ZIP codes, with the goal of understanding how populations move in response to environmental and public health events. His broader interests lie in applying statistical modeling and computational tools to infectious disease dynamics and public health preparedness.
 
 <figure style="float: left; margin: 0 20px -10px 0;">
+    <img src='../images/TheoLee.JPG' style='width:200px;'>
+</figure>
+
+## [Theodore Lee](https://www.linkedin.com/in/theodore-lee-185787349/)
+### MPH Student
+Theodore Lee is a graduate student pursuing an MPH in environmental health sciences at the Columbia Mailman School of Public Health. He holds a B.S. in animal science with a minor in infectious disease biology from Cornell University. His interests lie in the relationship between human mobility patterns and spillover events of zoonotic disease, with the goal of developing tools to inform responses against future outbreaks of disease.
+
+<figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/NidhiRam.jpg' style='width:200px;'>
 </figure>
 
@@ -99,13 +116,6 @@ Veerapetch Petchger is a graduate student pursuing an MS in Biostatistics at the
 ### Undergraduate
 Nidhi Ram is an undergraduate student at Columbia College studying Mathematics and Middle Eastern, South Asian, and African Studies. She is interested in exploring the intersection of math and human rights. In particular, she hopes to apply mathematical modeling and quantitative methods to problems in public health and policy.
 
-<!-- <figure style="float: left; margin: 0 20px -10px 0;">
-    <img src='../images/ClaireJong.jpg' style='width:200px;'>
-</figure>
-
-## [Claire Jong](https://www.linkedin.com/in/clairejong)
-### Undergraduate
-Claire Jong is an undergraduate at Columbia College studying Computer Science and Cognitive Science. She is interested in the intersection of technology and human psychology, especially exploring how cognitive biases emerge in technological environments, and how computational tools can support more informed and equitable decision-making. She hopes to apply mathematical modeling and AI-driven methods to tackle problems in these fields of human behavior, health, and policy. -->
 
 <figure style="float: left; margin: 0 20px -10px 0;">
     <img src='../images/YuhaoXiao.jpg' style='width:200px;'>

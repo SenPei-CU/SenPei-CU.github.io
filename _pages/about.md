@@ -18,7 +18,7 @@ Our research also extends to broader questions in health, including human behavi
 
 Hurricane Mobility Tracker
 ======
-We launched the Hurricane Mobility Tracker, an interactive dashboard that visualizes how population movement changes before, during, and after hurricanes. By integrating cellphone-based mobility data, hazard exposure, and counterfactual modeling, it quantifies disruptions, recovery time, and county-to-county travel patterns to support disaster preparedness and response. Check it out [here](https://hurricane-mobility.fly.dev/)!
+We launched the Hurricane Mobility Tracker, an interactive dashboard that visualizes how population movement changes before, during, and after hurricanes. By integrating cellphone-based mobility data, hazard exposure, and counterfactual modeling, it quantifies disruptions, recovery time, and county-to-county travel patterns to support disaster preparedness and response. Check it out [here](https://hurricane-mobility.fly.dev/)! Data can be downloaded at [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0IZ6ZN).
 
 <figure>
   <img src="/images/HurricaneMobilityTracker.png" alt="Hurricane Mobility Tracker dashboard preview" style="width:100%; max-width:800px;">
@@ -26,6 +26,12 @@ We launched the Hurricane Mobility Tracker, an interactive dashboard that visual
 
 Latest News
 ======
+
+- **09/15/2026** We welcomed several new members in our group. Dr. [Maya Chung](https://mayavchung.github.io/) joined our group as a postdoctoral research fellow, based in Columbia Climate School. [Yiming Cao](https://www.linkedin.com/in/yimingcao1124) and [Yuchen Qin](https://www.linkedin.com/in/yuchen-qin-22444632a/) joined as full-time Research Associates.
+
+- **09/02/2026** Our group attended the ISEE 2026 conference in Munich, Germany. I presented a talk on adaptive human mobility during hurricanes. Fin presented a poster on mobility and differential exposure during LA wildfires.
+
+- **08/14/2026** Our R01 project "Enhancing early outbreak response through generative AI-driven compliance modeling and context-specific policy design" has been awarded by NIH/NIAID.
 
 - **08/03/2026** We lunched the [Hurricane Mobility Tracker](https://hurricane-mobility.fly.dev/), an interactive dashboard that visualizes how population movement changes before, during, and after hurricanes.
 

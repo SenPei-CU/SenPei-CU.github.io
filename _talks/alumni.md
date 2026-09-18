@@ -10,6 +10,10 @@ Profiles of previous group members.
 
 PhD student, Applied Physics and Applied Mathematics, Columbia Univerity. Thesis title: Data-Driven Methods for Estimating and Forecasting Infectious Disease Transmission Under Nonstationary Dynamics
 
+### Claire Jong (2025-2026)
+
+Undergraduate, Computer Science and Cognitive Science, Columbia Univerity. LLM angents and human mobility.
+
 ### Minseo Lee (2025)
 
 Undergraduate, Computer Science and Applied Math, Columbia Univerity. Risk of HPAI spillover.
